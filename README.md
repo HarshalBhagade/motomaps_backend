@@ -25,6 +25,6 @@ Motomaps is a platform for discovering and sharing the best routes and trails.
 ## Authors
 
 - Sarthak Joshi
-- Atharva Bhore
+- Harshal Bhagade
 
 
